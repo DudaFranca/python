@@ -18,6 +18,7 @@ Cada pasta contém um pequeno projeto que me ajudou a entender o básico da ling
 
 ## 💻 Projetos
 - 🧮 **Tip Calculator** — Calculadora que retorna o valor total da conta após o cálculo da gorjeta.
+- 🎯 **Jogo de Adivinhação de Números** — Jogo interativo onde o jogador tenta adivinhar um número secreto entre 1 e 100. 
 
 ## ⚙️ Tecnologias Usadas
  - Python 3

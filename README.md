@@ -18,6 +18,7 @@ Each folder contains a small project that helped me understand the basics of the
 
 ## 💻 Projects
 - 🧮 **Tip Calculator** — A simple calculator that returns the total bill amount after applying the tip percentage.
+- 🎯 **Number Guessing Game** — Interactive game where the player tries to guess a secret number between 1 and 100.
 
 ## ⚙️ Technologies Used
 - Python 3
