@@ -18,8 +18,8 @@ Each folder contains a small project that helped me understand the basics of the
 
 ## 💻 Projects
 - 🧮 **Tip Calculator** — A simple calculator that returns the total bill amount after applying the tip percentage.
-- 🎯 **Number Guessing Game** — Interactive game where the player tries to guess a secret number between 1 and 100.
-
+- 🎯 **Number Guessing Game** — Interactive game where the player tries to guess a secret number between 1 and 100. 
+- 🎬 **Movie Recommendation** — Based on the movies you have already watched and the ratings you gave them, the system recommends a new movie for you to watch.
 ## ⚙️ Technologies Used
 - Python 3
 
